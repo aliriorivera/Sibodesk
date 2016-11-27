@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/sibo~siborepo/!svn/ver/29/trunk/SIBODesk/src/DAO/exceptions
+END
+PreexistingEntityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sibo~siborepo/!svn/ver/29/trunk/SIBODesk/src/DAO/exceptions/PreexistingEntityException.java
+END
+IllegalOrphanException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/sibo~siborepo/!svn/ver/29/trunk/SIBODesk/src/DAO/exceptions/IllegalOrphanException.java
+END
+NonexistentEntityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/sibo~siborepo/!svn/ver/29/trunk/SIBODesk/src/DAO/exceptions/NonexistentEntityException.java
+END
