@@ -1,5 +1,5 @@
 # Sibodesk
-# SiboDesk is a tickets management system which allow to manage the selling, ticket printing and tickets administration 
+# SiboDesk is a ticket management system that allows to manage the selling, ticket printing and tickets administration processes
 # for events such as concerts, games, etc. 
 # this is the desktop version of the application developed in Java
 # In this version developers were:
